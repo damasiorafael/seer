@@ -93,12 +93,14 @@ a:hover {
  * Navigation bar
  */
 #navbar {
-	padding-top: 0.5em;
 	background-color: #00ADEE!important;
 	margin-top: 0.5em;
 	border-bottom: 0!important;
+	padding-top: 0.5em;
 	padding-left: 15px;
 	padding-right: 15px;
+	padding-bottom: 1em;
+	border-radius: 3px!important;
 }
 #navbar a {
 	font-size: 0.65em;
