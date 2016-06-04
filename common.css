@@ -181,20 +181,20 @@ input[type='submit'] {
 }
 select {
 	padding: 6px 10px!important;
-	min-width: 225px;
 }
 input[type='checkbox'], input[type='radio'] {
 	min-width: auto;
-}
-
-.sidebarUser form table tr td input[type='text'] {
-	min-width: 175px;
 }
 
 #rightSidebar .block {
 	padding-top: 15px;
 	margin-bottom: 30px;
 	border-top: 1px solid #DDDDDD;
+}
+#sidebarDevelopedBy, #sidebarHelp {
+	padding-top: 0;
+	margin-bottom: 0;
+	border-top: none;
 }
 .blockTitle {
 	font-weight: bold;
