@@ -33,15 +33,15 @@
  */
 
 a:link {
-	color: #375;
+	color: #4C86B8;
 }
 
 a:active {
-	color: #253;
+	color: #2A6496;
 }
 
 a:visited {
-	color: #375;
+	color: #2A6496;
 }
 
 a:hover {
@@ -79,6 +79,10 @@ body {
 #content {
 	border-top-style: solid;
 	border-top-color: #DDD;
+}
+
+#content #intro p strong {
+	font-weight: normal;
 }
 
 /**
