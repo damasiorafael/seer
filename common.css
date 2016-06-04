@@ -191,10 +191,10 @@ input[type='checkbox'], input[type='radio'] {
 	margin-bottom: 30px;
 	border-top: 1px solid #DDDDDD;
 }
-#sidebarDevelopedBy, #sidebarHelp {
-	padding-top: 0;
-	margin-bottom: 0;
-	border-top: none;
+#sidebarDevelopedBy .block, #sidebarHelp .block {
+	padding-top: 0!important;
+	margin-bottom: 0!important;
+	border-top: none!important;
 }
 .blockTitle {
 	font-weight: bold;
