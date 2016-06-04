@@ -65,6 +65,7 @@ a:hover {
 #main {
 	width: 80%;
 	margin: 0 auto;
+	padding-top: 0!important;
 }
 
 
@@ -91,7 +92,11 @@ a:hover {
 /**
  * Navigation bar
  */
-
+#navbar {
+	padding-top: 0.5em;
+	background-color: #00ADEE!important;
+	margin-top: 0.5em;
+}
 #navbar a {
 	font-size: 0.65em;
 	letter-spacing: 0.05em;
