@@ -179,9 +179,17 @@ input[type='submit'] {
 	cursor: pointer!important;
 }
 
+#rightSidebar .block {
+
+}
 .blockTitle {
 	font-weight: bold;
 	font-size: 14px;
+}
+
+#sidebarDevelopedBy .blockTitle, #sidebarHelp .blockTitle {
+	font-weight: normal;
+	font-size: inherit;
 }
 
 /**
