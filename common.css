@@ -173,6 +173,10 @@ textarea {
 	padding: 6px 12px!important;
 	border-radius: 4px!important;
 }
+input[type='submit'] {
+	background-color: #4ebbdb!important;
+	color: #FFF!important;
+}
 
 /**
  * Announcements
