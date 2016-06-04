@@ -191,7 +191,7 @@ input[type='checkbox'], input[type='radio'] {
 	margin-bottom: 30px;
 	border-top: 1px solid #DDDDDD;
 }
-#sidebarDevelopedBy .block, #sidebarHelp .block {
+#sidebarDevelopedBy, #sidebarHelp {
 	padding-top: 0!important;
 	margin-bottom: 0!important;
 	border-top: none!important;
