@@ -85,6 +85,10 @@ body {
 	font-weight: normal;
 }
 
+#content h3 {
+	font-family: sans-serif;
+}
+
 /**
  * Access icons and key
  */
