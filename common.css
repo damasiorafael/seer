@@ -188,7 +188,7 @@ input[type='checkbox'], input[type='radio'] {
 
 #rightSidebar .block {
 	padding-top: 15px;
-	padding-bottom: 0;
+	padding-bottom: 0!important;
 	margin-bottom: 30px;
 	border-top: 1px solid #DDDDDD;
 }
