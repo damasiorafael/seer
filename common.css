@@ -188,11 +188,13 @@ input[type='checkbox'], input[type='radio'] {
 
 #rightSidebar .block {
 	padding-top: 15px;
+	padding-bottom: 0;
 	margin-bottom: 30px;
 	border-top: 1px solid #DDDDDD;
 }
 #sidebarDevelopedBy, #sidebarHelp {
 	padding-top: 0!important;
+	padding-bottom: 1.5em!important;
 	margin-bottom: 0!important;
 	border-top: none!important;
 }
