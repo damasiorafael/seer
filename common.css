@@ -188,7 +188,7 @@ input[type='checkbox'], input[type='radio'] {
 	min-width: auto;
 }
 
-.sidebarUser input[type='text'] {
+.sidebarUser form table tr td input[type='text'] {
 	min-width: 175px;
 }
 
