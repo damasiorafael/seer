@@ -96,10 +96,19 @@ a:hover {
 	padding-top: 0.5em;
 	background-color: #00ADEE!important;
 	margin-top: 0.5em;
+	border-bottom: 0!important;
+	padding-left: 15px;
+	padding-right: 15px;
 }
 #navbar a {
 	font-size: 0.65em;
 	letter-spacing: 0.05em;
+	color: #FFF!important;
+}
+#navbar a:hover {
+	background-color: none!important;
+	color: #FFF!important;
+	text-decoration: underline!important;
 }
 
 
