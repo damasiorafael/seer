@@ -158,6 +158,23 @@ body {
 }
 
 /**
+ * Inputs
+ */
+input.textField,
+select.selectMenu,
+textarea.textArea,
+input.uploadField,
+input,
+select,
+textarea, {
+	border: 1px solid #ccc;
+	background: #FFF;
+	color: #555;
+	padding: 6px 12px;
+	border-radius: 4px;
+}
+
+/**
  * Announcements
  */
 
