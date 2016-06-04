@@ -70,7 +70,12 @@ body {
 	margin: 0 auto;
 	padding-top: 0!important;
 }
-
+#main h2 {
+	margin-top: 15px;
+	font-family: sans-serif!important;
+	font-weight: bold;
+	border-bottom: 1px solid #EEE;
+}
 
 /**
  * Access icons and key
@@ -119,6 +124,9 @@ body {
 /**
  * Breadcrumb
  */
+#breadcrumb {
+	color: #4C86B8;
+}
 #breadcrumb a {
 	color: #4C86B8;
 }
