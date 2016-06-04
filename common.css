@@ -150,7 +150,10 @@ body {
  * Sidebar
  */
 #sidebar #rightSidebar {
-	background: #CCC;
+	background: #F7F7F7;
+	margin-top: 15px;
+	border-radius: 4px;
+	padding: 0.5em;
 }
 
 /**
