@@ -172,7 +172,7 @@ textarea {
 	color: #555!important;
 	padding: 6px 12px!important;
 	border-radius: 4px!important;
-	min-width: 235px;
+	min-width: 210px;
 }
 input[type='submit'] {
 	background-color: #4ebbdb!important;
@@ -186,6 +186,10 @@ select {
 }
 input[type='checkbox'], input[type='radio'] {
 	min-width: auto;
+}
+
+.sidebarUser input[type='text'] {
+	min-width: 175px;
 }
 
 #rightSidebar .block {
