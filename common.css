@@ -178,6 +178,9 @@ input[type='submit'] {
 	color: #FFF!important;
 	cursor: pointer!important;
 }
+select {
+	padding: 6px 10px!important;
+}
 
 #rightSidebar .block {
 
