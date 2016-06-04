@@ -149,7 +149,7 @@ body {
 /**
  * Sidebar
  */
-#sidebar {
+#sidebar #rightSidebar {
 	background: #CCC;
 }
 
