@@ -16,6 +16,10 @@
 @import url("../lib/pkp/styles/themes/default/pnotify.css");
 @import url("../lib/pkp/styles/themes/default/notificationIcons.css");
 
+* {
+	font-family: sans-serif!import;
+}
+
 .ui-pnotify-title {
 	font-size: 0.8em;
 }
