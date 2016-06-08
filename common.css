@@ -17,7 +17,7 @@
 @import url("../lib/pkp/styles/themes/default/notificationIcons.css");
 
 * {
-	font-family: sans-serif!import;
+	font-family: sans-serif!important;
 }
 
 .ui-pnotify-title {
@@ -37,18 +37,22 @@
  */
 
 a:link {
+	font-family: sans-serif!important;
 	color: #4C86B8;
 }
 
 a:active {
+	font-family: sans-serif!important;
 	color: #2A6496;
 }
 
 a:visited {
+	font-family: sans-serif!important;
 	color: #2A6496;
 }
 
 a:hover {
+	font-family: sans-serif!important;
 	color: #2A6496;
 }
 
@@ -58,6 +62,7 @@ a:hover {
  */
 
 body {
+	font-family: sans-serif!important;
 	background: #FFF;
 }
 
